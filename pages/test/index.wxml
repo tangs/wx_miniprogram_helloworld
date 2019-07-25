@@ -1,0 +1,5 @@
+<cax id="myCanvas"></cax>
+<view class="container1">
+    <button bindtap="onMove">move</button>
+    <button bindtap="onReset">reset</button>
+</view>
